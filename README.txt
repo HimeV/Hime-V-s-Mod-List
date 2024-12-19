@@ -1,11 +1,12 @@
-                                     ( ) means what I liked about the mod, or a description of what the mod does
-               If you find a dead link, please reply to the OP and list the section and number and I will take care of it.  Thank you!
-                     Need to contact me?  You can email me at HimeV@proton.me .  Note :  I will not ERP or anything like that.
+                      ( ) means what I liked about the mod, or a description of what the mod does
+      DO NOT feel like you have to/should download all of these mods, they are just mods I liked in no order
+If you find a dead link, please reply to the OP and list the section and number and I will take care of it.  Thank you!
+     Need to contact me?  You can email me at HimeV@proton.me .  Note :  I will not ERP or anything like that.
 
  
 
-                                                                 TABLE OF CONTENTS, CTRL+F THE C#
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                             TABLE OF CONTENTS, CTRL+F THE C#
+----------------------------------------------------------------------------------------------------------------------
 
 C01:  Generic Mods that are good & usually Required
 C02:  Immersion Mods
@@ -35,8 +36,9 @@ C25:  VTK
 C26:  Other Body Mods
 
 
-                                           C01:  Generic Mods that are good & usually Required
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                      C01:  Generic Mods that are good & usually Required
+----------------------------------------------------------------------------------------------------------------------
+
 01:  Cyber Engine Tweaks (Prereq for a lot of mods) https://www.nexusmods.com/cyberpunk2077/mods/107  
 02: Red4 Ext (Prereq for a lot of mods) https://www.nexusmods.com/cyberpunk2077/mods/2380  
 03: TweakXL (Prereq for a lot of mods) https://www.nexusmods.com/cyberpunk2077/mods/4197  
@@ -79,8 +81,10 @@ C26:  Other Body Mods
 41: Improved NCPD Map Filters (gives you three filters for the different scanner gig types) https://www.nexusmods.com/cyberpunk2077/mods/17488
 42: Improved Environment LODs (read the title again gonkbrain!) https://www.nexusmods.com/cyberpunk2077/mods/4923
 
-                                                                 C02:  Immersion Mods
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+                                                C02:  Immersion Mods
+----------------------------------------------------------------------------------------------------------------------
+
 01: Stealth Finishers (if melee equipped or fists) https://www.nexusmods.com/cyberpunk2077/mods/9360    
 02: Enable Finisher Ragdolls (Mod Req for above) https://www.nexusmods.com/cyberpunk2077/mods/9496    
 03: Smoother Dodges and Dashes (Less deceleration when dodging and dashing, resulting in a smoother feel) https://www.nexusmods.com/cyberpunk2077/mods/9331   04: Limited HUD (set your HUD up so you can only see health in combat, minimap while driving, etc.) https://www.nexusmods.com/cyberpunk2077/mods/2592    
@@ -117,8 +121,10 @@ C26:  Other Body Mods
 35: Missing Persons - Fixer's Hidden Gems (immersive way to get you to hidden gems via fixer gigs) https://www.nexusmods.com/cyberpunk2077/mods/5058
 36: Kiroshi Optics Night Vision Mod (toggleable night vision on tier 3+ eye cyberware) https://www.nexusmods.com/cyberpunk2077/mods/8326
 
-                                                           C03:  Weapon Stuff
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+                                                    C03:  Weapon Stuff
+----------------------------------------------------------------------------------------------------------------------
+
 01: HMG Craft Book (Get HMG crafting recipies from scrapping them) https://www.nexusmods.com/cyberpunk2077/mods/10157  
 02: Better HMGs - Heavy Machine Guns (Buff to HMG's, I use the nerfed Version, read desc for effects) https://www.nexusmods.com/cyberpunk2077/mods/9685    
 03: HMG LMG Pierces Walls (WARNING this means turrets will shoot you through walls but they don't have X-ray vision) https://www.nexusmods.com/cyberpunk2077/mods/9903    
@@ -136,8 +142,10 @@ C26:  Other Body Mods
 15: The Whisper (swaps Her Majesty's iconic perk for Pride's Iconic Perk) https://www.nexusmods.com/cyberpunk2077/mods/18145
 16: Slaught-O-Matic QoL (you don't drop it until you empty it, visual UI improvements and AMM prop) https://www.nexusmods.com/cyberpunk2077/mods/14125
 
-                                                    C04:  Textures and Lighting
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+                                              C04:  Textures and Lighting
+----------------------------------------------------------------------------------------------------------------------
+
 01: High Res Containers - MonstrrMagic Texture Series (High-resolution retexture of Various Containers via AI upscaling. ) https://www.nexusmods.com/cyberpunk2077/mods/7998    
 02: High Res Food and Drinks - MonstrrMagic Texture Series (High-resolution retexture of Food and Beverages via AI upscaling.) https://www.nexusmods.com/cyberpunk2077/mods/7999    
 03: High Res Posters and Signs - MonstrrMagic Texture Series (High-resolution retexture of Posters and Signs via AI upscaling) https://www.nexusmods.com/cyberpunk2077/mods/6795    
@@ -164,8 +172,10 @@ C26:  Other Body Mods
 24: Glass Blur Remover (Remove blurry effect from most of the glass in the game) https://www.nexusmods.com/cyberpunk2077/mods/6055    
 25: High-Res Clothing Upscaled Textures https://www.nexusmods.com/cyberpunk2077/mods/7301
 
-                                                          C05:  Odds and Ends
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+                                                C05:  Odds and Ends
+----------------------------------------------------------------------------------------------------------------------
+
 01: Panam Romance Enhanced (Panam now Eats, Drinks, Sleeps and uses her phone around the Aldecaldos' camp, and showers, if you have romanced her) https://www.nexusmods.com/cyberpunk2077/mods/4626    
 02: Lewder Nudes from Romanced Panam (A flashier replacement for Panam's romance path sexy text pic added in patch 1.5. Still works) https://www.nexusmods.com/cyberpunk2077/mods/3941    
 03: Judy Romanced Enhanced (Adds a few different states for Judy to be in when you visit her apartment once romanced; no longer stuck to window. Includes hug & kiss mod) https://www.nexusmods.com/cyberpunk2077/mods/4508    
@@ -176,8 +186,9 @@ C26:  Other Body Mods
 08: Sasha UI (UI Recolor to Sasha's themed around the "Let You Down" MV) https://www.nexusmods.com/cyberpunk2077/mods/16726
 
 
-                                                             C06:  Vehicles
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                    C06:  Vehicles
+----------------------------------------------------------------------------------------------------------------------
+
 01: Dynamic Gravity Modifier (Adds a new property to bikes - GravityModifier. For vehicles, increases gravity effect while reducing their bounciness) https://www.nexusmods.com/cyberpunk2077/mods/13986  
 02: Dynamic Downforce (Mod revamp dynamic downforce helper for vehicles and adds effect for bikes) https://www.nexusmods.com/cyberpunk2077/mods/12841  
 03: KB43VER - Hoon Drift Gymkhana Handling (Proper drift/gymkhana handling for the Ken Block tribute car. The Hoon is now Hoonable) https://www.nexusmods.com/cyberpunk2077/mods/13087  
@@ -216,15 +227,18 @@ C26:  Other Body Mods
 36: Lamborghini Diablo VT 6.0 Custom Widebody (very customizable) https://www.nexusmods.com/cyberpunk2077/mods/18180
 37: Chrome Colors and Neon for Lamborghini Diablo and Custom Widebody (even more customization for the above mod) https://www.nexusmods.com/cyberpunk2077/mods/18172
 
-                        C07:  Kind of Cheating mods but really quality of Life in my opinion disregard if you want
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+              C07:  Kind of Cheating mods but really quality of Life in my opinion disregard if you want
+----------------------------------------------------------------------------------------------------------------------
+
 01: Reset Attributes always available (Unlimited Ability to Reset Attributes) https://www.nexusmods.com/cyberpunk2077/mods/9240      
 02: Unlock Me The Mods 2.1 (Unlocks Weapon Mods so you can add and remove weapon mods) https://www.nexusmods.com/cyberpunk2077/mods/9349      
 03: Better Access Point Hacking Netrunner Rewards (Hacking becomes pointless at a certain point aims to fix) https://www.nexusmods.com/cyberpunk2077/mods/10355    
 04: Autoloot (adjustable auto loot in a cone, I use it because I have the body loot bug sometimes) https://www.nexusmods.com/cyberpunk2077/mods/5202
 
-                                                      C08:  Photomode stuff and Poses
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+                                             C08:  Photomode stuff and Poses
+----------------------------------------------------------------------------------------------------------------------
 
 01:  AMM (Take control of PM) https://www.nexusmods.com/cyberpunk2077/mods/790    
 02: Photomode Unlocker (Unlocks PM to give you more control) https://www.nexusmods.com/cyberpunk2077/mods/4319    
@@ -355,8 +369,8 @@ C26:  Other Body Mods
 127: Wreak Havoc (baseball bat-based pose pack) https://www.nexusmods.com/cyberpunk2077/mods/18236
 
 
-                                                     C09:  Clothing: Casual Wear
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                             C09:  Clothing: Casual Wear
+----------------------------------------------------------------------------------------------------------------------
 
 1: Daisy Duke Shorts https://www.nexusmods.com/cyberpunk2077/mods/8787
 2: Edgerunners Jackets https://www.nexusmods.com/cyberpunk2077/mods/14734
@@ -585,8 +599,8 @@ C26:  Other Body Mods
 225: aSgard Tank and Hotpants (Tanktop and panties) https://www.nexusmods.com/cyberpunk2077/mods/18173
  
 
-                                           C10:  Clothing: Formalwear, Skirts and Dresses
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                   C10:  Clothing: Formalwear, Skirts and Dresses
+----------------------------------------------------------------------------------------------------------------------
 
 1: Virgin Flatliner Sweater (sweater with side and back window, partially shows areolae and butt) https://www.nexusmods.com/cyberpunk2077/mods/14616
 2: Lotus Dress https://www.nexusmods.com/cyberpunk2077/mods/8991  
@@ -702,8 +716,8 @@ C26:  Other Body Mods
 112: MsDiana X Veegee Euphoria Outfit (Maid outfit) https://www.nexusmods.com/cyberpunk2077/mods/18234
  
 
-                                                  C11:  Clothing: Gothwear
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                           C11:  Clothing: Gothwear
+----------------------------------------------------------------------------------------------------------------------
 
 1: Goth Dress (Bodysuit and Skirt) https://www.nexusmods.com/cyberpunk2077/mods/8940 
 2: Goth Full Outfit Pt 2 (Chain Belt, Cross Choker, arm and leg belts) https://www.nexusmods.com/cyberpunk2077/mods/13490
@@ -744,8 +758,8 @@ C26:  Other Body Mods
 37: Casual Style Outfit Pt17 (leather jacket, corset and pants) https://www.nexusmods.com/cyberpunk2077/mods/17910
  
 
-                                         C12:  Clothing: Underware, Tights, Stockings and Swimwear
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+                            C12:  Clothing: Underware, Tights, Stockings and Swimwear
+----------------------------------------------------------------------------------------------------------------------
 
 1: Micro Bikini Underware (great for not clipping tight clothes) https://www.nexusmods.com/cyberpunk2077/mods/6527
 2: Starburst Underware https://www.nexusmods.com/cyberpunk2077/mods/15627
@@ -784,8 +798,8 @@ C26:  Other Body Mods
 35: PASKAL Seawing bikini (A nice string bikini) https://www.nexusmods.com/cyberpunk2077/mods/18301
  
 
-                                                      C13:  Clothing: Sportswear
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                             C13:  Clothing: Sportswear
+----------------------------------------------------------------------------------------------------------------------
 
 1: Cheerleader Outfit (kinda Skirt, hard to find fit for) https://www.nexusmods.com/cyberpunk2077/mods/7783  
 2: Sport Leggings https://www.nexusmods.com/cyberpunk2077/mods/15428
@@ -825,8 +839,8 @@ C26:  Other Body Mods
 36: Sportswear (sports top, shorts and pants) https://www.nexusmods.com/cyberpunk2077/mods/18360
  
 
-                                        C14:  Clothing: Housewear (Pajamas, lounge clothing, etc)
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+                               C14:  Clothing: Housewear (Pajamas, lounge clothing, etc)
+----------------------------------------------------------------------------------------------------------------------
 
 1: Boyfriend Fit Sweater/Jacket https://www.nexusmods.com/cyberpunk2077/mods/12286
 2: NoraLee's Plain Color Slouch Socks (Socks with Baggy tops) https://www.nexusmods.com/cyberpunk2077/mods/12450
@@ -839,8 +853,8 @@ C26:  Other Body Mods
 9: Hvdesstar X Veegee Comfy Outfit (Longer tube top with ribbot and pajama shorts with neat off shoulder overshirt) https://www.nexusmods.com/cyberpunk2077/mods/17639
  
 
-                                                  C15:  Clothing: General Accessories
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                           C15:  Clothing: General Accessories
+----------------------------------------------------------------------------------------------------------------------
 
 1: Heart Choker and Garter https://www.nexusmods.com/cyberpunk2077/mods/11685  
 2: Accessory Collection https://www.nexusmods.com/cyberpunk2077/mods/7850
@@ -927,8 +941,8 @@ https://www.nexusmods.com/cyberpunk2077/mods/16403
 
  
 
-                                      C16: Clothing: Kinky (May be other styles but all focus on kinky first)
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+                       C16: Clothing: Kinky (May be other styles but all focus on kinky first)
+----------------------------------------------------------------------------------------------------------------------
 
 1: Kinky Woman (Choker and Bracelets) https://www.nexusmods.com/cyberpunk2077/mods/16315  
 2: Boudior Pt 6 (Latex Bodysuit) https://www.nexusmods.com/cyberpunk2077/mods/13401  
@@ -1010,8 +1024,8 @@ https://www.nexusmods.com/cyberpunk2077/mods/16403
 
  
 
-                                C17: Clothing: Other (Mostly Combat/tacticool and Netrunner suits)
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+                       C17: Clothing: Other (Mostly Combat/tacticool and Netrunner suits)
+----------------------------------------------------------------------------------------------------------------------
 
 1: Quiet Outfit and Hair (Underware and Holster) https://www.nexusmods.com/cyberpunk2077/mods/5194
 2: Ronin Set (Garter Stockings) https://www.nexusmods.com/cyberpunk2077/mods/13998
@@ -1061,8 +1075,8 @@ https://www.nexusmods.com/cyberpunk2077/mods/16403
 
  
 
-                                          C18: ANGEL BODY: Refits and compatable outfits
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                C18: ANGEL BODY: Refits and compatable outfits
+----------------------------------------------------------------------------------------------------------------------
 
 1: VTK Hyst - Angel - Big Breasts Body mod (What this section is all about) https://www.nexusmods.com/cyberpunk2077/mods/14896
 2: ANGEL Body - Full Vanilla Refit(Refit for all vanilla clothes) https://www.nexusmods.com/cyberpunk2077/mods/15151
@@ -1245,8 +1259,9 @@ https://www.nexusmods.com/cyberpunk2077/mods/16403
 179: Chic And Elegant Style Outfit (business dress and top) https://www.nexusmods.com/cyberpunk2077/mods/18174
 
 
-                       C19:  Clothing: Other clothes that I haven't tested but I trust the mod authors and gen for quality
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+         C19:  Clothing: Other clothes that I haven't tested but I trust the mod authors and gen for quality
+----------------------------------------------------------------------------------------------------------------------
+
 1: Veegee X Efgrank Cyborg Skull Mask (Tacticool mask that covers from nose down) https://www.nexusmods.com/cyberpunk2077/mods/15980
 2: Military Palette Texture Library (Req for next three mods skip if not interested in those) https://www.nexusmods.com/cyberpunk2077/mods/16356
 3: Military Panam Pants (Military paterned Panam pants) https://www.nexusmods.com/cyberpunk2077/mods/10842
@@ -1276,15 +1291,17 @@ https://www.nexusmods.com/cyberpunk2077/mods/16403
 27: Military Accessories - Modular Armor Pads Pack (Pads for knees, eblows, thighs and shoulders) https://www.nexusmods.com/cyberpunk2077/mods/12044
 
  
-                                                       C20:  Non-Clothing Clothing Mods
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                         C20:  Non-Clothing Clothing Mods
+----------------------------------------------------------------------------------------------------------------------
+
 01:  Equipment-EX https://www.nexusmods.com/cyberpunk2077/mods/6945  
 02: Wardrobe Items Adder (Unlocks all clothing and adds them to your Wardrobe but doesn't give them in inventory) https://www.nexusmods.com/cyberpunk2077/mods/5742  
 03: Junk In The Trunk (Let's you access your stash from any owned vehicle) https://www.nexusmods.com/cyberpunk2077/mods/5339  
 04: Piercing Edits https://www.nexusmods.com/cyberpunk2077/mods/4499  
 
-                                                     C21:  Hair, eyebrows and makeup mods
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+                                        C21:  Hair, eyebrows and makeup mods
+----------------------------------------------------------------------------------------------------------------------
 
 01: Preem Hair (Hair texture HQ) https://www.nexusmods.com/cyberpunk2077/mods/8223    
 02: Wingder Hair Collection, only use one hair at a time (Big Collection) https://www.nexusmods.com/cyberpunk2077/mods/6072    
@@ -1342,8 +1359,8 @@ https://www.nexusmods.com/cyberpunk2077/mods/16403
 55: Soft Lipstick Lip Makeup (Softens the edges of base game lipsticks) https://www.nexusmods.com/cyberpunk2077/mods/18243
 
 
-                                                         C22:  Cyberware
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                               C22:  Cyberware
+----------------------------------------------------------------------------------------------------------------------
 
 01: Maine's Face Cyberware from Edgerunners (multiple customization options available, including which slot it replaces) https://www.nexusmods.com/cyberpunk2077/mods/5743  
 02: Even Cleaner Monowire Arms - Working with Arm Tattoos (Fixes monowire arms eating tattoos) https://www.nexusmods.com/cyberpunk2077/mods/9743  
@@ -1371,8 +1388,8 @@ https://www.nexusmods.com/cyberpunk2077/mods/16403
 24: Cyberware Mesh Edits V2 (edits to the base game cyberware) https://www.nexusmods.com/cyberpunk2077/mods/16824
 
 
-                                                              C23:  Eyes
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                               C23:  Eyes
+----------------------------------------------------------------------------------------------------------------------
 
 01: 2k Realistic Eyes Texture (The pack I use) https://www.nexusmods.com/cyberpunk2077/mods/15176    
 02: Unique Eyes Core (Prereq for eye mods) https://www.nexusmods.com/cyberpunk2077/mods/1937    
@@ -1381,8 +1398,8 @@ https://www.nexusmods.com/cyberpunk2077/mods/16403
 05: Cyber Sun Eyes (Robot looking eyes that look like they are lit up by a gamera or light) https://www.patreon.com/posts/cyber-sun-eyes-114522658
 
 
-                                                          C24:  Skin and Tattoo
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                            C24:  Skin and Tattoo
+----------------------------------------------------------------------------------------------------------------------
 
 01: Morph Texture Remover for Skin (gets rid of the forced overlay textures on V's head due to shape moprhing to get rid of the distorting and pixelated effect) https://www.nexusmods.com/cyberpunk2077/mods/2419    
 02: Custom Armpit Texture for Femv, no hair and hair (Better texture for V's armpit, hair options) https://www.nexusmods.com/cyberpunk2077/mods/8171    
@@ -1404,8 +1421,8 @@ https://www.nexusmods.com/cyberpunk2077/mods/16403
 18: Arms tattoo - The Witch's Inkwell https://www.nexusmods.com/cyberpunk2077/mods/14229
  
 
-                                                                   C25:  VTK
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                       C25:  VTK
+----------------------------------------------------------------------------------------------------------------------
 
 01: VTK FemV - Vanilla HD - Togglable Feet Body and Textures - Plus Resources, (Body textures) https://www.nexusmods.com/cyberpunk2077/mods/7054  
 02: VTK - Ava's 4k Body Textures (A conversion of Avallonkao's popular 4k body textures to work with HD Feet bodies) https://www.nexusmods.com/cyberpunk2077/mods/7125    
@@ -1419,9 +1436,8 @@ https://www.nexusmods.com/cyberpunk2077/mods/16403
 10: Lace Blackwork - VTK Tattoos (Henna style) https://www.nexusmods.com/cyberpunk2077/mods/13463
 
 
-                                                               C26:  Other Body Mods
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                   C26:  Other Body Mods
+----------------------------------------------------------------------------------------------------------------------
 
 01: Enhanced Big Breasts (EBB) - BODY MOD (Hysts most supported Body mod, based on VTK so any mod compatable with VTK is compatable with this) https://www.nexusmods.com/cyberpunk2077/mods/4654
 02: -KS- Solo Body 2.0 (Make V a muscle mommy, warning does require refits) https://www.nexusmods.com/cyberpunk2077/mods/15869
