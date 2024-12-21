@@ -1,8 +1,9 @@
                       ( ) means what I liked about the mod, or a description of what the mod does
       DO NOT feel like you have to/should download all of these mods, they are just mods I liked in no order
-If you find a dead link, please reply to the OP and list the section and number and I will take care of it.  Thank you!
+If you find a dead link, please reply to the OP and list the section and number and I will take care of it.  Thank                                                                                                   you!
      Need to contact me?  You can email me at HimeV@proton.me .  Note :  I will not ERP or anything like that.
-
+             MEGA Link to all my refits (Contains Angel, PUSH, New VTK, Solo and chopped mods for Deck Users) 
+                                https://mega.nz/folder/DFdjTDJB#z9J7u43KFzwK8VXt27TZfw
  
 
                                              TABLE OF CONTENTS, CTRL+F THE C#
@@ -374,6 +375,8 @@ C27:  Other Body Mods
 125: Together In Neon Pose Pack (FF) (FF couple pose pack, more like friends) https://www.nexusmods.com/cyberpunk2077/mods/18189
 126: The Sitting Collection Pt1 (Pose pack of just sitting) https://www.nexusmods.com/cyberpunk2077/mods/18146
 127: Wreak Havoc (baseball bat-based pose pack) https://www.nexusmods.com/cyberpunk2077/mods/18236
+128: asgard quadra lover posepack (High Quality Pose pack centered around the Quadra) https://www.nexusmods.com/cyberpunk2077/mods/18417
+129: Kiss Your Lover Pose Pack (AMM - PM -Tongue PM Props) (FxF only, really nice pack) https://www.nexusmods.com/cyberpunk2077/mods/18419
 
 
                                              C10:  Clothing: Casual Wear
@@ -604,7 +607,12 @@ C27:  Other Body Mods
 223: Low rise pants - breeches - shorts (pack of lowrise pants) https://www.nexusmods.com/cyberpunk2077/mods/18357
 224: Crop Top Vol. 4 (another pack of crop tops with lots of patterns) https://www.nexusmods.com/cyberpunk2077/mods/18320
 225: aSgard Tank and Hotpants (Tanktop and panties) https://www.nexusmods.com/cyberpunk2077/mods/18173
- 
+226: Overalls Dress (Fem V) (A version of Judy's Overalls that don't have pantlegs but instead a dress) https://www.nexusmods.com/cyberpunk2077/mods/18423
+227: Beanie's Closet (Nice mostly unbuttoned cropped sweater) https://www.nexusmods.com/cyberpunk2077/mods/18430
+228: Beanie's Closet - SFW (Lots of nice clothes, simple tanktop, cross crop top, and lots of skirts) https://www.nexusmods.com/cyberpunk2077/mods/18429
+229: Casual Style Outfit Pt19 (Very techwear outfit, very nice shoulder bolero and pants) https://www.nexusmods.com/cyberpunk2077/mods/18353
+230: Casual Style Outfit Pt18 (Nice open cropped hoodie, tube top and skirt) https://www.nexusmods.com/cyberpunk2077/mods/18352
+
 
                                    C11:  Clothing: Formalwear, Skirts and Dresses
 ----------------------------------------------------------------------------------------------------------------------
@@ -721,7 +729,11 @@ C27:  Other Body Mods
 110: Cutie Dress (cute minidress) https://www.nexusmods.com/cyberpunk2077/mods/18116
 111: Chic And Elegant Style Outfit (business dress and top) https://www.nexusmods.com/cyberpunk2077/mods/18174
 112: MsDiana X Veegee Euphoria Outfit (Maid outfit) https://www.nexusmods.com/cyberpunk2077/mods/18234
- 
+113: Casual Style Outfit Pt18 (Nice open cropped hoodie, tube top and skirt) https://www.nexusmods.com/cyberpunk2077/mods/18352
+114: Beanie's Closet - SFW (Lots of nice clothes, simple tanktop, cross crop top, and lots of skirts) https://www.nexusmods.com/cyberpunk2077/mods/18429
+115: Overalls Dress (Fem V) (A version of Judy's Overalls that don't have pantlegs but instead a dress) https://www.nexusmods.com/cyberpunk2077/mods/18423
+116: beaniebby Sundress - AXL Dress Skirt and Top (A very cute modular summer-themed dres with ruffles) https://www.nexusmods.com/cyberpunk2077/mods/18525
+
 
                                            C12:  Clothing: Gothwear
 ----------------------------------------------------------------------------------------------------------------------
@@ -763,7 +775,8 @@ C27:  Other Body Mods
 35: (Venus Planet) Fishnet Set (Miniskirt and crop tank with fishnet accessories) https://www.nexusmods.com/cyberpunk2077/mods/17914
 36: Peachu x Nemie - Baddest Set (latex goth top with miniskirt with deep V cut goes down to pubic area) https://www.nexusmods.com/cyberpunk2077/mods/17596
 37: Casual Style Outfit Pt17 (leather jacket, corset and pants) https://www.nexusmods.com/cyberpunk2077/mods/17910
- 
+38: Mayo - Goth Dress (Leather, latex and fabric front zipper dtrapless mini dress) https://www.nexusmods.com/cyberpunk2077/mods/18421
+
 
                             C13:  Clothing: Underware, Tights, Stockings and Swimwear
 ----------------------------------------------------------------------------------------------------------------------
@@ -803,7 +816,8 @@ C27:  Other Body Mods
 33: Classy Lingerie and stockings - sexy silk for both Vs (underwear, stockings and socks) https://www.nexusmods.com/cyberpunk2077/mods/8714
 34: Siren Straps (Strapless bra and panties, and other neat lingerie strap accessories) https://www.nexusmods.com/cyberpunk2077/mods/17810
 35: PASKAL Seawing bikini (A nice string bikini) https://www.nexusmods.com/cyberpunk2077/mods/18301
- 
+36: Beanie's Closet - NSFW (a couple sets of panties and bras) https://www.nexusmods.com/cyberpunk2077/mods/18430
+
 
                                              C14:  Clothing: Sportswear
 ----------------------------------------------------------------------------------------------------------------------
@@ -844,7 +858,8 @@ C27:  Other Body Mods
 34: Sport outfit Vol 2 (sports top and shorts with in game brands) https://www.nexusmods.com/cyberpunk2077/mods/18092
 35: Sporty Crop Tank (crop top spots bras, some with logos some without) https://www.nexusmods.com/cyberpunk2077/mods/10976
 36: Sportswear (sports top, shorts and pants) https://www.nexusmods.com/cyberpunk2077/mods/18360
- 
+37: Nola Dreamer's V Back Leggings (High Quality yoga pants that emphasize the butt) https://www.nexusmods.com/cyberpunk2077/mods/18495
+
 
                                C15:  Clothing: Housewear (Pajamas, lounge clothing, etc)
 ----------------------------------------------------------------------------------------------------------------------
@@ -946,7 +961,6 @@ https://www.nexusmods.com/cyberpunk2077/mods/16403
 79: Pearl Jewelry Collection - Fem Masc V (big jewelry pack with necklaces and bracelets ball themed) https://www.nexusmods.com/cyberpunk2077/mods/18160
 80: Dex's Watch - Both V's (wearable Dex's watch on left wrist) https://www.nexusmods.com/cyberpunk2077/mods/18162
 
- 
 
                        C17: Clothing: Kinky (May be other styles but all focus on kinky first)
 ----------------------------------------------------------------------------------------------------------------------
@@ -1028,7 +1042,7 @@ https://www.nexusmods.com/cyberpunk2077/mods/16403
 75: Pubic Hairstyle Pack 2 (Alternate pube patterns) https://www.nexusmods.com/cyberpunk2077/mods/16813
 76: Woman in ruffles (ruffles panties and bra with ruffle limb accessories) https://www.nexusmods.com/cyberpunk2077/mods/17558
 77: Woman in belts (Kinky belt set for all over body) https://www.nexusmods.com/cyberpunk2077/mods/18164
-
+78: Heavy Hearts Harness (Cute harness with heart accessories to join) https://www.nexusmods.com/cyberpunk2077/mods/18413
  
 
                        C18: Clothing: Other (Mostly Combat/tacticool and Netrunner suits)
@@ -1264,6 +1278,13 @@ https://www.nexusmods.com/cyberpunk2077/mods/16403
 177: Crop Top Vol. 4 (another pack of crop tops with lots of patterns) https://www.nexusmods.com/cyberpunk2077/mods/18320
 178: Woman in ruffles (ruffles panties and bra with ruffle limb accessories) https://www.nexusmods.com/cyberpunk2077/mods/17558
 179: Chic And Elegant Style Outfit (business dress and top) https://www.nexusmods.com/cyberpunk2077/mods/18174
+180: Overalls Dress (Fem V) (A version of Judy's Overalls that don't have pantlegs but instead a dress) https://www.nexusmods.com/cyberpunk2077/mods/18423
+181: Casual Style Outfit Pt19 (Very techwear outfit, very nice shoulder bolero and pants) https://www.nexusmods.com/cyberpunk2077/mods/18353
+182: Casual Style Outfit Pt18 (Nice open cropped hoodie, tube top and skirt) https://www.nexusmods.com/cyberpunk2077/mods/18352
+183: Heavy Hearts Harness (Cute harness with heart accessories to join) https://www.nexusmods.com/cyberpunk2077/mods/18413
+184: beaniebby Sundress - AXL Dress Skirt and Top (A very cute modular summer-themed dres with ruffles) https://www.nexusmods.com/cyberpunk2077/mods/18525
+185: Mayo - Goth Dress (Leather, latex and fabric front zipper dtrapless mini dress) https://www.nexusmods.com/cyberpunk2077/mods/18421
+186: Nola Dreamer's V Back Leggings (High Quality yoga pants that emphasize the butt) https://www.nexusmods.com/cyberpunk2077/mods/18495
 
 
          C20:  Clothing: Other clothes that I haven't tested but I trust the mod authors and gen for quality
@@ -1364,6 +1385,9 @@ https://www.nexusmods.com/cyberpunk2077/mods/16403
 53: Request - Short Curly hair (shoulder length curly hair with phys) https://www.nexusmods.com/cyberpunk2077/mods/7297
 54: Darker Eyebrows (Make Eyebrows darker) https://www.nexusmods.com/cyberpunk2077/mods/4131
 55: Soft Lipstick Lip Makeup (Softens the edges of base game lipsticks) https://www.nexusmods.com/cyberpunk2077/mods/18243
+56: Curly Ponytail - Fem and Masc V Hair (A nice shoulder length ponytail with naturally curly hair) https://www.nexusmods.com/cyberpunk2077/mods/18109
+57: Peachu x Zwei - Pigtails Hair (Nice twin-tails with bangs) https://www.nexusmods.com/cyberpunk2077/mods/18304
+58: Haircut_003 (Shoulder length with bangs that partially cover eyes) https://www.nexusmods.com/cyberpunk2077/mods/18513
 
 
                                                C23:  Cyberware
