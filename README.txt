@@ -128,6 +128,11 @@ C27:  Other Body Mods
 34: Dynamic NPC Items (Makes NPC's walking around use everyday items, like their phone, tablets, drinks and whatnot) https://www.nexusmods.com/cyberpunk2077/mods/16158
 35: Missing Persons - Fixer's Hidden Gems (immersive way to get you to hidden gems via fixer gigs) https://www.nexusmods.com/cyberpunk2077/mods/5058
 36: Kiroshi Optics Night Vision Mod (toggleable night vision on tier 3+ eye cyberware) https://www.nexusmods.com/cyberpunk2077/mods/8326
+37: Game Time Tweaks (Change the rate at which in game time progresses, I use the 1 for 1 IRL mirror version myself) https://www.nexusmods.com/cyberpunk2077/mods/870
+38: No Paper Bags From Vending Machines (Does what it says, see the actual items when you buy them) https://www.nexusmods.com/cyberpunk2077/mods/8387
+39: HQ Food - Soda - Real Chromanticore (Requirement for #38) https://www.nexusmods.com/cyberpunk2077/mods/8407
+40: Cookedprefabs Nulled (Requirement for #38) https://www.nexusmods.com/cyberpunk2077/mods/4789
+41: HQ Food - Soda - Real Nicola (Requirement for #38)https://www.nexusmods.com/cyberpunk2077/mods/8491
 
 
                                                     C04:  Weapon Stuff
@@ -149,6 +154,8 @@ C27:  Other Body Mods
 14:Enemies Dodging Fix (Fixes enemies dodging, now they can dodge in any direction not just backwards) https://www.nexusmods.com/cyberpunk2077/mods/17923
 15: The Whisper (swaps Her Majesty's iconic perk for Pride's Iconic Perk) https://www.nexusmods.com/cyberpunk2077/mods/18145
 16: Slaught-O-Matic QoL (you don't drop it until you empty it, visual UI improvements and AMM prop) https://www.nexusmods.com/cyberpunk2077/mods/14125
+17: REVAMPED Skippy (XMOD2 - Chemical - Explosive - Blackwall) (Add's buyable versions of skippy to keep him more competitive with the endgame) https://www.nexusmods.com/cyberpunk2077/mods/11371
+18: Dying Night De-Gonk'd (Changes the appearance of the Dying Night to a gun you won't be embarrassed to pull out in public) https://www.nexusmods.com/cyberpunk2077/mods/18620
 
 
                                               C05:  Textures and Lighting
@@ -192,6 +199,7 @@ C27:  Other Body Mods
 06: Ultimate kill counter (count how many kills you've done with guns, quickhacks, etc.) https://www.nexusmods.com/cyberpunk2077/mods/9372    
 07: Untrack Quest Ultimate (FUCK OFF HANAKO I'M NOT GOING TO EMBERS) https://www.nexusmods.com/cyberpunk2077/mods/6328    
 08: Sasha UI (UI Recolor to Sasha's themed around the "Let You Down" MV) https://www.nexusmods.com/cyberpunk2077/mods/16726
+09: RadioExt (Allows you to add custom radio stations, does nothing on it's own you need an accompanying radio mod with it) https://www.nexusmods.com/cyberpunk2077/mods/4591
 
 
                                                     C07:  Vehicles
@@ -234,6 +242,8 @@ C27:  Other Body Mods
 35: Improved Vehicle Glass Destruction Effects (improves the glass shattering effect) https://www.nexusmods.com/cyberpunk2077/mods/17837
 36: Lamborghini Diablo VT 6.0 Custom Widebody (very customizable) https://www.nexusmods.com/cyberpunk2077/mods/18180
 37: Chrome Colors and Neon for Lamborghini Diablo and Custom Widebody (even more customization for the above mod) https://www.nexusmods.com/cyberpunk2077/mods/18172
+38: Mizutani Hozuki (Adds the non-sporterized versions of the Hozuki to the Virtual Car Dealer for purchase) https://www.nexusmods.com/cyberpunk2077/mods/12481
+39: Bikes of the Dark Future --- Arch V4 (Big pack of new Arch motorcycles) https://www.nexusmods.com/cyberpunk2077/mods/18736
 
 
               C08:  Kind of Cheating mods but really quality of Life in my opinion disregard if you want
@@ -377,6 +387,15 @@ C27:  Other Body Mods
 127: Wreak Havoc (baseball bat-based pose pack) https://www.nexusmods.com/cyberpunk2077/mods/18236
 128: asgard quadra lover posepack (High Quality Pose pack centered around the Quadra) https://www.nexusmods.com/cyberpunk2077/mods/18417
 129: Kiss Your Lover Pose Pack (AMM - PM -Tongue PM Props) (FxF only, really nice pack) https://www.nexusmods.com/cyberpunk2077/mods/18419
+130: The Sitting Collection Pt2 (Nice pack of sitting poses, these ones are more intricate with odd elevations) https://www.nexusmods.com/cyberpunk2077/mods/18548
+131: SEASON7 ORIGIN - Pose Pack Duo (Remake of two older pose packs from the same author, tweaked with a couple new poses) https://www.nexusmods.com/cyberpunk2077/mods/18734
+132: aSgard covergirl poses (Poses you would see in a fashion magazine) https://www.nexusmods.com/cyberpunk2077/mods/18675
+133: Fortnite Emotes (AMM) (Add's some popular fortnite dance emotes you can use in AMM) https://www.nexusmods.com/cyberpunk2077/mods/18656
+134: Rosa's Shippy Pose Pack - Vol 2 - Pictures of us (Cute couple pose pack, SFW) https://www.nexusmods.com/cyberpunk2077/mods/16027
+135: Rosa's Shippy Pose Pack - Vol 1 - Kiss Me (Cute couple pose pack focused around the kiss) https://www.nexusmods.com/cyberpunk2077/mods/14346
+136: Submission - MF Pose Pack (NSFW rough sex pose pack) https://www.nexusmods.com/cyberpunk2077/mods/18662
+137: Embracing Sensuality (Pack of AMM custom location teleport's to themed mood locations) https://www.nexusmods.com/cyberpunk2077/mods/17880
+138: Locations Discovered On Accident (Pack of AMM custom location teleport's to seemingly randomly selected locations) https://www.nexusmods.com/cyberpunk2077/mods/18589
 
 
                                              C10:  Clothing: Casual Wear
@@ -612,7 +631,11 @@ C27:  Other Body Mods
 228: Beanie's Closet - SFW (Lots of nice clothes, simple tanktop, cross crop top, and lots of skirts) https://www.nexusmods.com/cyberpunk2077/mods/18429
 229: Casual Style Outfit Pt19 (Very techwear outfit, very nice shoulder bolero and pants) https://www.nexusmods.com/cyberpunk2077/mods/18353
 230: Casual Style Outfit Pt18 (Nice open cropped hoodie, tube top and skirt) https://www.nexusmods.com/cyberpunk2077/mods/18352
-
+231: Urban Night Outfit (Nice long sleeve shirt with ruffles at wrists and belly line, also is cropped to show belly button and cute tight shorts) https://www.nexusmods.com/cyberpunk2077/mods/18534
+232: Nola Dreamer's Little Messy Top (Tank top that is pulled up on the right side with patterns and wrinkles) https://www.nexusmods.com/cyberpunk2077/mods/18556
+233: Boudoir Pt22 (nice bolero and a one-piece swimsuit like bodysuit with side windows and deep V cut in middle) https://www.nexusmods.com/cyberpunk2077/mods/18535
+234: Ankle Pants (Both V) (Tight capri jeans, nice quality and file size) https://www.nexusmods.com/cyberpunk2077/mods/18555
+235: Comfort Zone - Hoodies Collection for FemV and MascV (Huge hoodie pack, very nice quality) https://www.nexusmods.com/cyberpunk2077/mods/18571
 
                                    C11:  Clothing: Formalwear, Skirts and Dresses
 ----------------------------------------------------------------------------------------------------------------------
@@ -733,6 +756,7 @@ C27:  Other Body Mods
 114: Beanie's Closet - SFW (Lots of nice clothes, simple tanktop, cross crop top, and lots of skirts) https://www.nexusmods.com/cyberpunk2077/mods/18429
 115: Overalls Dress (Fem V) (A version of Judy's Overalls that don't have pantlegs but instead a dress) https://www.nexusmods.com/cyberpunk2077/mods/18423
 116: beaniebby Sundress - AXL Dress Skirt and Top (A very cute modular summer-themed dres with ruffles) https://www.nexusmods.com/cyberpunk2077/mods/18525
+117: Nola Dreamer's Next Level Outfit (Nice skirt that goes slightly above belly button and top with slong sleeves, exposed shoulders and collar bones) https://www.nexusmods.com/cyberpunk2077/mods/18671
 
 
                                            C12:  Clothing: Gothwear
@@ -776,6 +800,8 @@ C27:  Other Body Mods
 36: Peachu x Nemie - Baddest Set (latex goth top with miniskirt with deep V cut goes down to pubic area) https://www.nexusmods.com/cyberpunk2077/mods/17596
 37: Casual Style Outfit Pt17 (leather jacket, corset and pants) https://www.nexusmods.com/cyberpunk2077/mods/17910
 38: Mayo - Goth Dress (Leather, latex and fabric front zipper dtrapless mini dress) https://www.nexusmods.com/cyberpunk2077/mods/18421
+39: Goth Outfit Pt8 (Cute top and pants, top is long sleeve with a belly drop, shoulers exposed and fishnet side boobwindows, pants have side thigh fishnet windows) https://www.nexusmods.com/cyberpunk2077/mods/18454
+
 
 
                             C13:  Clothing: Underware, Tights, Stockings and Swimwear
@@ -817,6 +843,7 @@ C27:  Other Body Mods
 34: Siren Straps (Strapless bra and panties, and other neat lingerie strap accessories) https://www.nexusmods.com/cyberpunk2077/mods/17810
 35: PASKAL Seawing bikini (A nice string bikini) https://www.nexusmods.com/cyberpunk2077/mods/18301
 36: Beanie's Closet - NSFW (a couple sets of panties and bras) https://www.nexusmods.com/cyberpunk2077/mods/18430
+37: Rosslin Stirrup Socks (Mid-thigh high socks with stirrups that go bellow the feet) https://www.nexusmods.com/cyberpunk2077/mods/7853
 
 
                                              C14:  Clothing: Sportswear
@@ -1285,6 +1312,13 @@ https://www.nexusmods.com/cyberpunk2077/mods/16403
 184: beaniebby Sundress - AXL Dress Skirt and Top (A very cute modular summer-themed dres with ruffles) https://www.nexusmods.com/cyberpunk2077/mods/18525
 185: Mayo - Goth Dress (Leather, latex and fabric front zipper dtrapless mini dress) https://www.nexusmods.com/cyberpunk2077/mods/18421
 186: Nola Dreamer's V Back Leggings (High Quality yoga pants that emphasize the butt) https://www.nexusmods.com/cyberpunk2077/mods/18495
+187: Urban Night Outfit (Nice long sleeve shirt with ruffles at wrists and belly line, also is cropped to show belly button and cute tight shorts) https://www.nexusmods.com/cyberpunk2077/mods/18534
+188: Nola Dreamer's Little Messy Top (Tank top that is pulled up on the right side with patterns and wrinkles) https://www.nexusmods.com/cyberpunk2077/mods/18556
+189: Boudoir Pt22 (nice bolero and a one-piece swimsuit like bodysuit with side windows and deep V cut in middle) https://www.nexusmods.com/cyberpunk2077/mods/18535
+190: Goth Outfit Pt8 (Cute top and pants, top is long sleeve with a belly drop, shoulers exposed and fishnet side boobwindows, pants have side thigh fishnet windows) https://www.nexusmods.com/cyberpunk2077/mods/18454
+191: Ankle Pants (Both V) (Tight capri jeans, nice quality and file size) https://www.nexusmods.com/cyberpunk2077/mods/18555
+192: Nola Dreamer's Next Level Outfit (Nice skirt that goes slightly above belly button and top with slong sleeves, exposed shoulders and collar bones) https://www.nexusmods.com/cyberpunk2077/mods/18671
+193: Comfort Zone - Hoodies Collection for FemV and MascV (Huge hoodie pack, very nice quality) https://www.nexusmods.com/cyberpunk2077/mods/18571
 
 
          C20:  Clothing: Other clothes that I haven't tested but I trust the mod authors and gen for quality
@@ -1472,3 +1506,7 @@ https://www.nexusmods.com/cyberpunk2077/mods/16403
 
 01: Enhanced Big Breasts (EBB) - BODY MOD (Hysts most supported Body mod, based on VTK so any mod compatable with VTK is compatable with this) https://www.nexusmods.com/cyberpunk2077/mods/4654
 02: -KS- Solo Body 2.0 (Make V a muscle mommy, warning does require refits) https://www.nexusmods.com/cyberpunk2077/mods/15869
+03: MORE REALISTIC BUTT - RB (Keeps the vanilla breast size but gives you a better butt and thighs) https://www.nexusmods.com/cyberpunk2077/mods/4420
+04: Enhanced Big Breasts (EBB) (Gives you larger breasts, can be combined with #03) https://www.nexusmods.com/cyberpunk2077/mods/4654
+05: PUSH UP - Enhanced Big Breasts Body Mod (EBBP) (A reimagining of #03 and #04, with a more bra-like breast position) https://www.nexusmods.com/cyberpunk2077/mods/9083
+06: Enhanced Vanilla Body (EVB) (Hysts take on the vanilla body, complete with new textures) https://www.nexusmods.com/cyberpunk2077/mods/11489
