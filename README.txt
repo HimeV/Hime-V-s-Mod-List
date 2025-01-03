@@ -1422,6 +1422,12 @@ https://www.nexusmods.com/cyberpunk2077/mods/16403
 56: Curly Ponytail - Fem and Masc V Hair (A nice shoulder length ponytail with naturally curly hair) https://www.nexusmods.com/cyberpunk2077/mods/18109
 57: Peachu x Zwei - Pigtails Hair (Nice twin-tails with bangs) https://www.nexusmods.com/cyberpunk2077/mods/18304
 58: Haircut_003 (Shoulder length with bangs that partially cover eyes) https://www.nexusmods.com/cyberpunk2077/mods/18513
+59: CHAERI BLUNT BANG (Hime bangs with exposed ears and shoulder length hair) https://www.nexusmods.com/cyberpunk2077/mods/18738
+60: FAMKE MODERN LAYERS (Shoulder length with bang and middle parting) https://www.nexusmods.com/cyberpunk2077/mods/18735
+61: Kly's Simple Straight Long Hair (Middle parted with mid back length hair) https://www.nexusmods.com/cyberpunk2077/mods/18643
+62: WINONA CROP BOBBY (Jaw-length bobbed hair with songbird esque high neck line) https://www.nexusmods.com/cyberpunk2077/mods/18720
+63: KUROTANI MICROBOB (Very short Bobbed hairstyle with hime bangs) https://www.nexusmods.com/cyberpunk2077/mods/18672
+64: Alocarme Hair 25 (shoulder length with bangs and slightly exposed ears) https://www.nexusmods.com/cyberpunk2077/mods/18646
 
 
                                                C23:  Cyberware
@@ -1461,7 +1467,7 @@ https://www.nexusmods.com/cyberpunk2077/mods/16403
 03: Kala's Eye Collection (Eye pack collection) https://www.nexusmods.com/cyberpunk2077/mods/7805    
 04: ICONIC - Character Creation Icon Framework (Preq for eye mod's that have eye icons) https://www.nexusmods.com/cyberpunk2077/mods/11041    
 05: Cyber Sun Eyes (Robot looking eyes that look like they are lit up by a gamera or light) https://www.patreon.com/posts/cyber-sun-eyes-114522658
-
+06: Cosplay Bright Eye Pack (Pack of bright pastel cosplay inspired eyes) https://www.nexusmods.com/cyberpunk2077/mods/18756
 
                                             C25:  Skin and Tattoo
 ----------------------------------------------------------------------------------------------------------------------
